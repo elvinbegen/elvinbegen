@@ -1,6 +1,6 @@
 ## Photonics researcher · FMCW LiDAR · Quantum-dot photodetectors
 
-I work on **FMCW LiDAR with colloidal quantum-dot photodetectors**, covering the whole chain from the material to the system: first-principles material modeling (DFT), optical and electrical device simulation (FDTD / CHARGE), optical experiments, and system-level signal simulation in Python.
+I work on FMCW LiDAR with colloidal quantum-dot photodetectors, covering the whole chain from the material to the system: first-principles material modeling (DFT), optical and electrical device simulation (FDTD / CHARGE), optical experiments, and system-level signal simulation in Python.
 
 ---
 
